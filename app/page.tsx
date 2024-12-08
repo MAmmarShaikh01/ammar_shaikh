@@ -7,7 +7,7 @@ import Latest from "@/component/Latestproducts"
 import Offe from "@/component/Whatoffers"
 import Trending from "@/component/Trending"
 import Feature from "@/component/Uniquefeatures"
-import Discount from "@/component/discountItem"
+import Discount from "@/component/DiscountItem"
 import React from "react";
 
 export default function Home() {
