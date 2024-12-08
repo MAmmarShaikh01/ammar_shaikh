@@ -48,3 +48,8 @@
 .productPrice{
     color:#151875;
 }
+@media screen and (max-width:726px) {
+    .cardContainer{
+        flex-direction: column;
+    }
+}
