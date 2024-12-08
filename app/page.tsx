@@ -5,8 +5,9 @@ import Hero from "@/component/Homehero"
 import Pro from "@/component/Featureproducts"
 import Latest from "@/component/Latestproducts"
 import Offe from "@/component/Whatoffers"
+import Trending from "@/component/Trending"
 import Feature from "@/component/Uniquefeatures"
-
+import Discount from "@/component/discountItem"
 import React from "react";
 
 export default function Home() {
@@ -19,6 +20,8 @@ export default function Home() {
     <Latest />
     <Offe />
     <Feature />
+    <Trending />
+    <Discount />
     <Footer />
     </>
   )

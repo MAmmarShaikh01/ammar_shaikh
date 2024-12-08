@@ -1,0 +1,51 @@
+.heading{
+    text-align: center;
+font-family: 'Josefin Sans';
+font-size: 42px;
+line-height: 49px;
+color: #151875;
+
+}
+
+.main{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    cursor: pointer;
+    transition: all 1s ease;
+}
+.li:hover{
+    color:#FB2E86;
+}
+
+.cont{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.left{
+    width: 30%;
+}
+.product{
+font-family: 'Josefin Sans';
+font-size: 35px;
+line-height: 132%;
+/* or 46px */
+letter-spacing: 0.015em;
+
+/* Text */
+color: #151875;
+
+
+}
+.chair{
+    width: 20%;
+}

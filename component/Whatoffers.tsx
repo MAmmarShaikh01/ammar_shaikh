@@ -1,3 +1,4 @@
+
 import style from "@/css/Whatoffers.module.css"
 import Image from "next/image"
 
