@@ -8,6 +8,7 @@ import Offe from "@/component/Whatoffers"
 import Trending from "@/component/Trending"
 import Feature from "@/component/Uniquefeatures"
 import Discount from "@/component/DiscountItem"
+import Topcat from "@/component/Topcategories"
 import React from "react";
 
 export default function Home() {
@@ -22,6 +23,7 @@ export default function Home() {
     <Feature />
     <Trending />
     <Discount />
+    <Topcat />
     <Footer />
     </>
   )

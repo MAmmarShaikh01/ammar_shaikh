@@ -21,7 +21,7 @@ export default function Home (){
                 <h1 className={style.product}>20% Discount Of All Products</h1>
                 <p className={style.despink}>Eams Sofa Compact</p>
                 <p className={style.des2}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eu eget feugiat habitasse nec, bibendum condimentum.</p>
-                <ul className="ulProduct">
+                <ul className = {style.ulProduct}>
                     <li className={style.liProduct}>Material expose like metals</li>
                     <li className={style.liProduct}>Clear lines and geomatric figures</li>
                     <li className={style.liProduct}>Simple neutral colours.</li>
